@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\ead1f47d4358ff6b9d7bf91f534f918508dfdb4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736afb22391a31d5fb14d282179c06c5649c46fe">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_16b6eb5dd9312845636a33e50381b6a6502855ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\49573ea7e1971e85e1c89af0404e1be6a7e97a42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_e82fb57ea83485d53e5706788170a0407aedc00a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\78511ebe17524067ec6fb49b90e1b22f00bcdd4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_1da18de03633a945646d9be796ad6310794cf0b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\020f957c52f88d5e123a3f76f0b60e7c838a72d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_095a115d275334319c324c49d6aea8bc3a211be9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\ce0754ec9bcd00a69f2c81ef30edd54de314230c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_01c78abe0def76c628223fc59b2106510e0cb76f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\0152e1226a9cecce2c662ace7fce76303d49060d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_8b743c37c1fa5e46d834192637e4a5373c72ffff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\ce0754ec9bcd00a69f2c81ef30edd54de314230c\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8da6280b1abb868d2218c0ee0f70f9d60a65c3d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\5286bda1c9bde7fbce73d730b03f1256a34e7053\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_6d745e0c45bb318ac02e812710a36f5c2a8e6155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AppData\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_81f8d7c218742fb16e3fe8f422b8292c99bd3e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\1414bbb3106fbd50bd150e4d0e22b3b4a5ba40a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_ebdd6e2d186676e5d21ca2695420692e10fdf7cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\4b0d0f5241e90b8d2df2a18c11fad7714d047890\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_b873d5b0a80b708bc0f45f99788a7327cacc4d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\1f495d67d46cda7e28a497ad7d403b028d4ee8db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0e10a526509572537612820f2e46b7436f6c188">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_a8586d6f4e8d3bdf0b4005b44745f543c05a6891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\2a6adc2a81d2e0cef23ebcf699b47a83ef5e1ba5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_f19c0e8cbd004c1881f8b259f84269c0c4656542.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\0152e1226a9cecce2c662ace7fce76303d49060d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_03582dd8d63a4cf248a1bd474e197e4070695591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\464d9664b9a325ce9df08e5d5856c70d3a206d8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_ae0f97cf7e33d8538f0f9685cf6aa2d07172bb9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\464d9664b9a325ce9df08e5d5856c70d3a206d8b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_44e96834c19336eb497a8ecad5aa0b3638c1dbff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\2f9e615f52ebe6588b32146a177e5f3cbc9882a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_aff16b1ec01b6c76bcf144164ad7024192583b74.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_196994a00f4a3cbcdd0a4cd1f71e9fa0be073724\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\65c0bdd37c04c10b86a17efcb333cf9e9836ebc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_7846ae7e2f36520a2005271707f7ebd41a794a78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\6dc4139737d85c5a2526f078d4d59c05510baec9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_dc66451c3e0fbda59207b4bdba1332673728c77c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\b9dc3ceb8612a105f057037ed9ad0ec6cec64529\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_885e5a6f3bbf051762c3df8139c06331750b62ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\197490f5eded23b1a284057bbbd0935491b3477f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_44e64469a7fdd3429511c660cdf0969ed76ccad9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03ad09310cff69b7aea3c58c7098e96cb765e378">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_33977c83ec2c572809de7a4033ada2aba51e1d7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\ca499de26a54b13e1a193fe8982fe314c7e78f1d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_7c00a48c6f80acb1d656dd99f3138875e3bb7049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\7f57a17f68336dd6930b3c273185b5ecf0ba70b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_7f85373e7060b57726267bb1770f4a59d172667b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\35cd2db40ab7eca0151079701af725a93023196d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_f0de259f7064d81d3ce5c4078be08dfe3c4abc58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\ffa98b7ac356332aaa87302b3f61a503a5f46662\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_c9256a43fd1d3772967626c8ce454232f15f4fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\252497e2394c0e6f8da9c3642c1dafb548f0d692\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_52670fb2283dfc5c32d229440dfa13bbf8ea271c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\1414bbb3106fbd50bd150e4d0e22b3b4a5ba40a3\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a1c9ac359c87e7b24000b80b018b4440ecaab64c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\75cf2fc96ee7495d4e67593b5e3fb3eed49df9e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_737ea86549e8f7fbb36c92e84784f854ebd55aad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\b7f29806a9ae882cfe3b4d984673ea64cc8ff20e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_129a0ed99b01331e4d72b557c5627b301452c81e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\08af47deedfa8bdb35c1ed29e604aff2f3fde7d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_3fd717cb28ab3088a636a22a68c37e00bdfbbc40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\960111b3998a0d35b18f28258b5010a8b9245f6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_d14f1f78b247b01610b42150b6a10773f3724ad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\7596d866f399b37e8e65da9e1fd9f76b66bdb5c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_3740b06b4e1a4c74146b3c531c8c684983416ff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dannie\.android\build-cache\ffa98b7ac356332aaa87302b3f61a503a5f46662\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Proj\IntelliJIDEA\RivChat\app\build\intermediates\pre-dexed\debug\classes_50fe9d37047adc70e76193b7ca906b5e531e2924.jar" />
+    </item>
+
+</items>

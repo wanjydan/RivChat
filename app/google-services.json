@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "298427607297",
+    "firebase_url": "https://rivchat-94445.firebaseio.com",
+    "project_id": "rivchat-94445",
+    "storage_bucket": "rivchat-94445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298427607297:android:4f3901f6ece9b5f1",
+        "android_client_info": {
+          "package_name": "com.wanjy.dannie.rivchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298427607297-rpr0jufrt32m8aofdbeeoh23eqnm6jjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc9h90qpmf2m284wYYqLbezvzABRMBa38"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
